@@ -1,4 +1,4 @@
-const CACHE_NAME = 'height-meter-v1';
+const CACHE_NAME = 'height-meter-v2';
 const urlsToCache = [
   './index.html',
   './manifest.json'
