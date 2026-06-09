@@ -2,6 +2,7 @@ const CACHE_NAME = 'height-meter-v1';
 const urlsToCache = [
   './index.html',
   './manifest.json'
+  './logo.png'
 ];
 
 // Install and cache the files
