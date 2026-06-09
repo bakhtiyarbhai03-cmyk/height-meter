@@ -7,7 +7,7 @@
   "theme_color": "#4ade80",
   "icons": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Circle-icons-ruler.svg/512px-Circle-icons-ruler.svg.png",
+      "src": "./logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
